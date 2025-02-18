@@ -1,0 +1,16 @@
+const data = [
+    {
+    "id":1,
+    "name":"xyz",
+    "email":"abc@gmail.com"
+},
+    {
+    "id":2,
+    "name":"abc",
+    "email":"xyz@gmail.com"
+},
+    {
+    "id":3,
+    "name":"tuv",
+    "email":"tuv@gmail.com"},
+];
