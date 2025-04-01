@@ -2,7 +2,7 @@ import React from 'react'
 import axios from 'axios'
 const Delete = () => {
     const handledelete = async (id) => {
-        await axios.delete(`http://localhost:9000/users/${id}`);
+        await axios.delete(`https://fsd-backend-p2x5.onrender.com/${id}`);
         alert('User deleted successfully')
     }
     return (
